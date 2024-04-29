@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -11,7 +11,7 @@
 I'm a Bioengineer with a strong focus on neuromodulation and medical devices. Currently, I'm a Clinical Specialist at Medtronic and a master’s student in Artificial Intelligence at Universidad Internacional de La Rioja (UNIR).
 
 ## 🧠 Skills
-- Proficient in Python, C++, and MATLAB
+- Proficient in Python, R, and MATLAB
 - Strong foundation in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP)
 - Skilled in Biomechanics, Biomaterials, and Medical Device Regulation (MDR)
 - Known for my attention to detail, teamwork, and excellent communication skills
