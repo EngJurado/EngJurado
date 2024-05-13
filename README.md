@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Carlos Mateo Jurado Diaz
+# Carlos Mateo Jurado Diaz
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -10,7 +10,9 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-I'm a Bioengineer with a strong focus on neuromodulation and medical devices. Currently, I'm a Clinical Specialist at Medtronic and a master’s student in Artificial Intelligence at Universidad Internacional de La Rioja (UNIR).
+#### Bioengineering | Brain modulation | Artificial Intelligence
+
+Bioengineer with a passion for neuromodulation, machine learning, and data analysis. Currently pursuing a Master's degree in Artificial Intelligence. Experienced in providing clinical support for neuromodulation surgeries and programming neurostimulators. Skilled in patient education, surgical support, medical devices, and leadership.
 
 ## 🧠 Skills
 - Proficient in Python, R, and MATLAB
@@ -31,6 +33,7 @@ I'm a Bioengineer with a strong focus on neuromodulation and medical devices. Cu
 ## 🌐 Connect with Me
 - 📧 Email: eng.jurado@gmail.com
 - 💼 LinkedIn: [engjurado](https://www.linkedin.com/in/engjurado/)
+- ✉️ Telegram: [engjurado]([https://telegram.me/engjurado])
 - 🌐 Website: [https://engjurado.github.io/](https://engjurado.github.io/)
 
 I'm always eager to learn and apply new technologies in the biomedical field. Looking forward to bringing my skills and expertise to new challenges in the AI and Bioengineering fields.
