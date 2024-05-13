@@ -33,7 +33,7 @@ Bioengineer with a passion for neuromodulation, machine learning, and data analy
 ## 🌐 Connect with Me
 - 📧 Email: eng.jurado@gmail.com
 - 💼 LinkedIn: [engjurado](https://www.linkedin.com/in/engjurado/)
-- ✉️ Telegram: [engjurado]([https://telegram.me/engjurado])
+- ✉️ Telegram: [engjurado](https://telegram.me/engjurado)
 - 🌐 Website: [https://engjurado.github.io/](https://engjurado.github.io/)
 
 I'm always eager to learn and apply new technologies in the biomedical field. Looking forward to bringing my skills and expertise to new challenges in the AI and Bioengineering fields.
