@@ -28,8 +28,8 @@ I am a dedicated professional with a comprehensive background in bioengineering 
 - Research Student, University of Antioquia, Sep 2021 - Apr 2022
 
 ## 🎓 Education
-- M.Sc. in Artificial Intelligence, International University of La Rioja, Feb 2024 - Present
-- B.Sc. in Bioengineering, University of Antioquia, Feb 2015 - Jun 2022
+- MSc in Artificial Intelligence, International University of La Rioja, Feb 2024 - Present
+- BSc in Bioengineering, University of Antioquia, Feb 2015 - Jun 2022
 
 ## 🏆 Merits and Awards
 
