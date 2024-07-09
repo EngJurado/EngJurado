@@ -9,9 +9,10 @@
 
 #### Bioengineering | Brain modulation | Artificial Intelligence
 
-Bioengineer with a passion for neuromodulation, machine learning, and data analysis. Currently pursuing a Master's degree in Artificial Intelligence. Experienced in providing clinical support for neuromodulation surgeries and programming neurostimulators. Skilled in patient education, surgical support, medical devices, and leadership.
+I am a dedicated professional with a comprehensive background in bioengineering and artificial intelligence. Currently, I serve as a Clinical Specialist at Medtronic, where I utilize my expertise to address complex challenges in high-stress environments. My career journey has been enriched by various roles, including those of Laboratory Assistant and Research Student at the University of Antioquia.
 
 ## 🧠 Skills
+- Biomedical engineering: Brain modulation, Surgical support, Medical devices, Patient education
 - Data manipulation: R, Numpy, Pandas
 - Data visualization: R, Matplotlib
 - Statistical analysis: R, SciPy
@@ -19,6 +20,7 @@ Bioengineer with a passion for neuromodulation, machine learning, and data analy
 - Machine learning: Scikit-learn, TensorFlow, Keras
 - Computer vision: MATLAB, OpenCV
 - Web development: Flask, Python, Bootstrap, Font Awesome, HTML, CSS
+- Soft skills: Teamwork, Attention to detail, Time management, Leadership
 
 ## 💼 Experience
 - Clinical Specialist, Medtronic, Feb 2023 - Present
