@@ -12,20 +12,20 @@
 I am a dedicated professional with a comprehensive background in bioengineering and artificial intelligence. Currently, I serve as External Support at Medtronic, addressing complex challenges in high-stress environments. My career journey includes roles as a Laboratory Assistant and Research Student at the University of Antioquia. I am currently pursuing a Master's degree in Artificial Intelligence, eager to leverage my academic background in bioengineering and passion for AI technologies into a fulfilling career. Committed to continuous learning, I hold multiple certifications in related technologies, demonstrating my readiness to excel in the evolving landscape of AI.
 
 ## 💼 Experience
-- External Support, Medtronic, Feb 2023 - Ongoing
-- Laboratory Assistant, University of Antioquia, Nov 2021 - Apr 2022
-- Research Student, University of Antioquia, Sep 2021 - Apr 2022
+- External Support, Medtronic, February 2023 - Ongoing
+- Laboratory Assistant, University of Antioquia, November 2021 - April 2022
+- Research Student, University of Antioquia, September 2021 - April 2022
 
 ## 🎓 Education
-- Master of Science - MS in Artificial Intelligence, International University of La Rioja, Feb 2024 - Ongoing
-- Graduate certificate - GCert in Data Analyst for Artificial Intelligence, International University of La Rioja, Mar 2024 - Ongoing
-- Bachelor of Engineering - BE in Bioengineering, University of Antioquia, Feb 2015 - Jun 2022
+- Master of Science - MS in Artificial Intelligence, International University of La Rioja, March 2024 - Ongoing
+- Graduate certificate - GCert in Data Analyst for Artificial Intelligence, International University of La Rioja, March 2024 - Ongoing
+- Bachelor of Engineering - BE in Bioengineering, University of Antioquia, February 2015 - June 2022
 
 ## 📜 Certifications
 
-- Continuing Education Certificate in Leadership, MIU City University Miami, Apr 2024
-- Azure Fundamentals, Microsoft, Mar 2024
-- GitHub Fundamentals, Microsoft, Mar 2024
+- Continuing Education Certificate in Leadership, MIU City University Miami, April 2024
+- Azure Fundamentals, Microsoft, March 2024
+- GitHub Fundamentals, Microsoft, March 2024
 
 ## 🧠 Skills
 
