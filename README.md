@@ -34,7 +34,7 @@ Here is the ordered list of skills categorized under AI, Biomedical Engineering,
 - AI: Machine Learning, Deep Learning, Natural Language Processing, spaCy, Scikit-learn, TensorFlow, Keras, Computer Vision, OpenCV
 - Data Science: Data Manipulation, R, Numpy, Pandas, Data Visualization, Matplotlib, Statistical Analysis, SciPy
 - Biomedical Engineering: Brain Modulation, Surgical Assisting, Medical Devices, Biomedical Device Design, Patient Education
-- Web Development: Flask, Python, Bootstrap, Font Awesome, HTML, CSS
+- Web Development: Flask, Python, Bootstrap, HTML, CSS
 - Cloud Technologies: Microsoft Azure, Cloud Data, Cloud Networking, Cloud Security, Cloud Services, Cloud Storage, Virtualization
 - Soft Skills: Teamwork, Attention to Detail, Time Management, Leadership, Communication, Problem Solving
 
