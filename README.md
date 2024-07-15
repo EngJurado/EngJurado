@@ -40,8 +40,8 @@ Here is the ordered list of skills categorized under AI, Biomedical Engineering,
 
 ## 🏆 Merits and Awards
 
-- Honours in the 2019-2 semester at the University of Antioquia, University of Antioquia, Mar 2021
-- Academic exchange in 2019 at the University of Veracruz in Mexico, University of Veracruz, Nov 2019
+- Honours in the 2019-2 semester at the University of Antioquia, University of Antioquia, March 2021
+- Academic exchange in 2019 at the University of Veracruz in Mexico, University of Veracruz, November 2019
 
 ## 🌐 Connect with Me
 - 📧 Email: eng.jurado@gmail.com
