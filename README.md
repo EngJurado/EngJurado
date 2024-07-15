@@ -31,7 +31,7 @@ I am a dedicated professional with a comprehensive background in bioengineering 
 
 Here is the ordered list of skills categorized under AI, Biomedical Engineering, Web Development, and Soft Skills for your resume:
 
-- AI: Machine Learning, Deep Learning, Natural Language Processing, spaCy, Scikit-Learn, TensorFlow, Keras, Computer Vision, OpenCV
+- Artificial Intelligence (AI): Machine Learning, Deep Learning, Natural Language Processing (NLP), spaCy, Scikit-Learn, TensorFlow, Keras, Computer Vision, OpenCV
 - Data Science: Data Manipulation, R, NumPy, Pandas, Data Visualization, Matplotlib, Statistical Analysis, SciPy
 - Biomedical Engineering: Brain Modulation, Surgical Assisting, Medical Devices, Biomedical Device Design, Patient Education
 - Web Development: Flask, Python, Bootstrap, HTML, CSS
