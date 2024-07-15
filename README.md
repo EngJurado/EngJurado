@@ -9,38 +9,39 @@
 
 #### Bioengineering | Brain modulation | Artificial Intelligence
 
-I am a dedicated professional with a comprehensive background in bioengineering and artificial intelligence. Currently, I serve as a Clinical Specialist at Medtronic, where I utilize my expertise to address complex challenges in high-stress environments. My career journey has been enriched by various roles, including those of Laboratory Assistant and Research Student at the University of Antioquia.
-
-## 🧠 Skills
-- Biomedical engineering: Brain modulation, Surgical support, Medical devices, Patient education
-- Data manipulation: R, Numpy, Pandas
-- Data visualization: R, Matplotlib
-- Statistical analysis: R, SciPy
-- Natural language processing: spaCy
-- Machine learning: Scikit-learn, TensorFlow, Keras
-- Computer vision: MATLAB, OpenCV
-- Web development: Flask, Python, Bootstrap, Font Awesome, HTML, CSS
-- Soft skills: Teamwork, Attention to detail, Time management, Leadership
+I am a dedicated professional with a comprehensive background in bioengineering and artificial intelligence. Currently, I serve as External Support at Medtronic, addressing complex challenges in high-stress environments. My career journey includes roles as a Laboratory Assistant and Research Student at the University of Antioquia. I am currently pursuing a Master's degree in Artificial Intelligence, eager to leverage my academic background in bioengineering and passion for AI technologies into a fulfilling career. Committed to continuous learning, I hold multiple certifications in related technologies, demonstrating my readiness to excel in the evolving landscape of AI.
 
 ## 💼 Experience
-- Clinical Specialist, Medtronic, Feb 2023 - Present
+- External Support, Medtronic, Feb 2023 - Ongoing
 - Laboratory Assistant, University of Antioquia, Nov 2021 - Apr 2022
 - Research Student, University of Antioquia, Sep 2021 - Apr 2022
 
 ## 🎓 Education
-- MSc in Artificial Intelligence, International University of La Rioja, Feb 2024 - Present
-- BSc in Bioengineering, University of Antioquia, Feb 2015 - Jun 2022
-
-## 🏆 Merits and Awards
-
-- Honours in the 2019-2 semester at the University of Antioquia
-- Academic exchange in 2019 at the University of Veracruz in Mexico
+- Master of Science - MS in Artificial Intelligence, International University of La Rioja, Feb 2024 - Ongoing
+- Graduate certificate - GCert in Data Analyst for Artificial Intelligence, International University of La Rioja, Mar 2024 - Ongoing
+- Bachelor of Engineering - BE in Bioengineering, University of Antioquia, Feb 2015 - Jun 2022
 
 ## 📜 Certifications
 
 - Continuing Education Certificate in Leadership, MIU City University Miami, Apr 2024
 - Azure Fundamentals, Microsoft, Mar 2024
 - GitHub Fundamentals, Microsoft, Mar 2024
+
+## 🧠 Skills
+
+Here is the ordered list of skills categorized under AI, Biomedical Engineering, Web Development, and Soft Skills for your resume:
+
+- AI: Machine Learning, Deep Learning, Natural Language Processing, spaCy, Scikit-learn, TensorFlow, Keras, Computer Vision, OpenCV
+- Data Science: Data Manipulation, R, Numpy, Pandas, Data Visualization, Matplotlib, Statistical Analysis, SciPy
+- Biomedical Engineering: Brain Modulation, Surgical Assisting, Medical Devices, Biomedical Device Design, Patient Education
+- Web Development: Flask, Python, Bootstrap, Font Awesome, HTML, CSS
+- Cloud Technologies: Microsoft Azure, Cloud Data, Cloud Networking, Cloud Security, Cloud Services, Cloud Storage, Virtualization
+- Soft Skills: Teamwork, Attention to Detail, Time Management, Leadership, Communication, Problem Solving
+
+## 🏆 Merits and Awards
+
+- Honours in the 2019-2 semester at the University of Antioquia, University of Antioquia, Mar 2021
+- Academic exchange in 2019 at the University of Veracruz in Mexico, University of Veracruz, Nov 2019
 
 ## 🌐 Connect with Me
 - 📧 Email: eng.jurado@gmail.com
