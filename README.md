@@ -9,7 +9,7 @@
 
 #### Bioengineering | Brain modulation | Artificial Intelligence
 
-I am a dedicated professional with a comprehensive background in bioengineering and artificial intelligence. Currently, I serve as External Support at Medtronic, addressing complex challenges in high-stress environments. My career journey includes roles as a Laboratory Assistant and Research Student at the University of Antioquia. I am currently pursuing a Master's degree in Artificial Intelligence, eager to leverage my academic background in bioengineering and passion for AI technologies into a fulfilling career. Committed to continuous learning, I hold multiple certifications in related technologies, demonstrating my readiness to excel in the evolving landscape of AI.
+Passionate and dedicated professional with a strong foundation in bioengineering and artificial intelligence. Currently pursuing a Master's degree in AI to transition into a specialized AI career. Experienced in high-stress environments with a proven track record in problem-solving, teamwork, and leadership. Committed to continuous learning and development, holding multiple certifications in related technologies.
 
 ## 💼 Experience
 - External Support, Medtronic, February 2023 - Ongoing
