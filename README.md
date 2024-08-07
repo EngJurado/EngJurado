@@ -9,7 +9,7 @@
 
 #### Bioengineering | Brain modulation | Artificial Intelligence
 
-Passionate and dedicated professional with a strong foundation in bioengineering and artificial intelligence. Currently pursuing a Master's degree in AI to transition into a specialized AI career. Experienced in high-stress environments with a proven track record in problem-solving, teamwork, and leadership. Committed to continuous learning and development, holding multiple certifications in related technologies.
+Passionate and dedicated professional with a robust foundation in bioengineering and a specialization in artificial intelligence. Currently pursuing a Master's degree in AI to further enhance my expertise and transition into a specialized AI career. Experienced in high-stress environments, with a proven track record in problem-solving, teamwork, and leadership. Skilled in designing and implementing AI and machine learning solutions, as well as developing and deploying data-driven applications. Committed to continuous learning and professional development, with a strong desire to leverage my technical and analytical skills to drive innovation and achieve impactful results.
 
 ## 💼 Experience
 - External Support, Medtronic, February 2023 - Ongoing
@@ -31,12 +31,11 @@ Passionate and dedicated professional with a strong foundation in bioengineering
 
 Here is the ordered list of skills categorized under AI, Biomedical Engineering, Web Development, and Soft Skills for your resume:
 
-- Artificial Intelligence (AI): Machine Learning, Deep Learning, Natural Language Processing (NLP), spaCy, Scikit-Learn, TensorFlow, Keras, Computer Vision, OpenCV
-- Data Science: Data Manipulation, R, NumPy, Pandas, Data Visualization, Matplotlib, Statistical Analysis, SciPy
-- Biomedical Engineering: Brain Modulation, Surgical Assisting, Medical Devices, Biomedical Device Design, Patient Education
-- Web Development: Flask, Python, Bootstrap, HTML, CSS
-- Cloud Technologies: Microsoft Azure, Cloud Data, Cloud Networking, Cloud Security, Cloud Services, Cloud Storage, Virtualization
-- Soft Skills: Teamwork, Attention to Detail, Time Management, Leadership, Communication, Problem Solving
+- Artificial Intelligence (AI): Machine Learning, Deep Learning, NLP, Computer Vision.
+- Data Science: Data Manipulation, Visualization, Statistical Analysis, R, Python.
+- Web Development: Flask, Bootstrap.
+- Cloud Computing: Microsoft Azure.
+- Soft Skills: Teamwork, Attention to Detail, Time Management, Leadership, Communication, Problem Solving.
 
 ## 🏆 Merits and Awards
 
