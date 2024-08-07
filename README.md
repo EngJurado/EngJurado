@@ -13,7 +13,7 @@ Passionate and dedicated professional with a robust foundation in bioengineering
 
 ## 💼 Experience
 - External Support, Medtronic, February 2023 - Ongoing
-- Laboratory Assistant, University of Antioquia, November 2021 - April 2022
+- Laboratory Monitor, University of Antioquia, November 2021 - April 2022
 - Research Student, University of Antioquia, September 2021 - April 2022
 
 ## 🎓 Education
