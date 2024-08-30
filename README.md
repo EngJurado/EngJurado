@@ -46,6 +46,6 @@ Here is the ordered list of skills categorized under AI, Biomedical Engineering,
 - 📧 Email: eng.jurado@gmail.com
 - 💼 LinkedIn: [engjurado](https://www.linkedin.com/in/engjurado/)
 - ✉️ Telegram: [engjurado](https://telegram.me/engjurado)
-- 🌐 Website: [http://engjurado.pythonanywhere.com/](http://engjurado.pythonanywhere.com/)
+- 🌐 Website: [engjurado.tech](https://engjurado.tech/)
 
 I'm always eager to learn and apply new technologies in the biomedical field. Looking forward to bringing my skills and expertise to new challenges in the AI and Bioengineering fields.
