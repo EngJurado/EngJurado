@@ -4,7 +4,6 @@
 
 Floridablanca, Colombia  
 📧 eng.jurado@gmail.com  
-📞 +57 3057758370  
 🌐 [LinkedIn](https://linkedin.com/in/engjurado)
 
 ---
