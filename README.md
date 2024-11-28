@@ -98,7 +98,7 @@ _November 2021 - March 2022_
 - GitHub Fundamentals – Microsoft  
 - DBS Advanced & Introductory Training – Medtronic  
 - Leadership Certification – MIU City University Miami  
-- [See full list here](#)
+- [See full list here](https://www.linkedin.com/in/engjurado/details/certifications/)
 
 ---
 
