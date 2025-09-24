@@ -1,58 +1,21 @@
-# 👋 Hi, I'm Carlos Jurado
+# 👋 Hi, I’m Carlos Mateo Jurado Díaz  
+🎓 Bioengineer with a Master’s in Artificial Intelligence 
+***
 
-🎓 Bioengineer | 🤖 MSc in Artificial Intelligence  
-🧠 Passionate about Neuromodulation & AI for Healthcare  
-⚕️ Board Member – Colombian Society of Neuromodulation  
+### 💼 What I Do  
+- Provide **technical support** for neuromodulation procedures, ensuring patient safety and device excellence.  
+- Develop and optimize **machine learning models** for mental health and biomedical data analysis.  
+- Design and improve **biomedical hardware** for better signal acquisition and patient care.  
 
----
+***
 
-## 🧠 About Me
+### 🛠️ Technical Skills  
+- Programming: **Python** (TensorFlow, PyTorch, scikit-learn), R, SQL  
+- AI & Data: Machine Learning, Deep Learning, NLP, Computer Vision  
+- Tools: Microsoft Azure, AWS SageMaker, GitHub, Streamlit, Tableau, Power BI  
+- Clinical: Deep Brain Stimulation (DBS), Spinal Cord Stimulation, Device Tech, Technovigilance  
 
-I'm a bioengineer with a deep passion for merging **AI** and **healthcare technology**, especially in the realm of **neuromodulation** and **Deep Brain Stimulation (DBS)**. I specialize in creating AI-driven tools that enhance patient care and clinical workflows.
+***
 
-Currently, I provide on-site support for neuromodulation procedures at **Medtronic**, and contribute to mental health-focused AI projects as a **Data Science Intern**. I believe in ethical design, innovation, and making tech meaningful in medicine.
-
----
-
-## 🚀 Interests & Focus
-
-- 🧬 Neuromodulation & Neural Interfaces  
-- 🧠 Deep Brain Stimulation (DBS)  
-- 🤖 Machine Learning for Mental Health  
-- 📊 Data Visualization & Dashboarding  
-- 🧪 Biomedical Devices & Signal Processing  
-
----
-
-## 🧰 Tech Toolbox
-
-**AI & Data Science:**  
-`Python`, `TensorFlow`, `PyTorch`, `Scikit-learn`, `Keras`, `NLP`, `Computer Vision`
-
-**Data Tools & Visualization:**  
-`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`, `Power BI`, `Tableau`
-
-**Dev & Platforms:**  
-`Flask`, `Streamlit`, `HTML/CSS/JS`, `Azure`, `Google Colab`, `GitHub`
-
----
-
-## 📚 Education
-
-🎓 **MSc in Artificial Intelligence**  
-*International University of La Rioja*
-
-🎓 **BSc in Bioengineering**  
-*University of Antioquia, Colombia*
-
----
-
-## 🌐 Let's Connect
-
-- 📎 [LinkedIn](https://www.linkedin.com/in/your-link)
-- ✉️ Email: eng.jurado@gmail.com
-- 🧪 Always open to collaboration in AI + healthcare
-
----
-
-*“Technology should enhance human care—not replace it.”*
+### 🌍 Let’s Connect  
+📧 [Email](mailto:eng.jurado@gmail.com) | 💻 [GitHub](https://github.com/EngJurado) | 🔗 [LinkedIn](https://www.linkedin.com/in/engjurado/) | 🌐 [Neuromodulation](https://neuromodulacion.com.co/)  
