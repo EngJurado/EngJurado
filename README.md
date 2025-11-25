@@ -1,21 +1,44 @@
-# 👋 Hi, I’m Carlos Mateo Jurado Díaz  
-🎓 Bioengineer with a Master’s in Artificial Intelligence 
-***
+# About Me
 
-### 💼 What I Do  
-- Provide **technical support** for neuromodulation procedures, ensuring patient safety and device excellence.  
-- Develop and optimize **machine learning models** for mental health and biomedical data analysis.  
-- Design and improve **biomedical hardware** for better signal acquisition and patient care.  
+## 👋 Hello, I'm Carlos Mateo Jurado Díaz
 
-***
+**Bioengineer** with a **Master's in Artificial Intelligence** | **Neuromodulation Specialist** | **Data Scientist**
 
-### 🛠️ Technical Skills  
-- Programming: **Python** (TensorFlow, PyTorch, scikit-learn), R, SQL  
-- AI & Data: Machine Learning, Deep Learning, NLP, Computer Vision  
-- Tools: Microsoft Azure, AWS SageMaker, GitHub, Streamlit, Tableau, Power BI  
-- Clinical: Deep Brain Stimulation (DBS), Spinal Cord Stimulation, Device Tech, Technovigilance  
+---
 
-***
+## 🎯 What I Do
 
-### 🌍 Let’s Connect  
-📧 [Email](mailto:eng.jurado@gmail.com) | 💻 [GitHub](https://github.com/EngJurado) | 🔗 [LinkedIn](https://www.linkedin.com/in/engjurado/) | 🌐 [Neuromodulation](https://neuromodulacion.com.co/)  
+- 🧠 **Neuromodulation Support**: Provide on-site technical support for DBS, SCS, and sacral stimulation procedures at Medtronic
+- 🤖 **Machine Learning**: Develop and optimize AI models for mental health analysis and biomedical data processing
+- 💻 **Biomedical Hardware**: Design PCBs and analog filters for signal acquisition in medical devices
+- 📊 **Data Science**: Build interactive dashboards and implement advanced data preprocessing techniques
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming**: Python · R · JavaScript · SQL · Bash  
+**AI/ML**: TensorFlow · PyTorch · scikit-learn · spaCy · OpenCV  
+**Tools**: Azure · AWS · Power BI · Tableau · Streamlit · GitHub  
+**Clinical**: DBS · SCS · Device Programming · Tecnovigilance
+
+---
+
+## 🎓 Education
+
+- **MSc Artificial Intelligence** — Universidad Internacional de La Rioja (2024-2025)
+- **Bioengineering** — Universidad de Antioquia (2015-2022)
+
+---
+
+## 🌐 Connect
+
+- 📧 [Email](mailto:eng.jurado@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/engjurado)
+- 🌐 [Portfolio](https://engjurado.me)
+- 𝕏 [Twitter/X](https://x.com/EngJurado)
+
+---
+
+**Founding Member**: Colombian Society of Neuromodulation (SCON)  
+**Member**: International Neuromodulation Society (INS)
