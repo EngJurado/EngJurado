@@ -19,6 +19,6 @@
 - **Bioengineering** — Universidad de Antioquia (2015-2022)
 
 ## 🌐 Connect
-[Email](mailto:eng.jurado@gmail.com) · [LinkedIn](https://www.linkedin.com/in/engjurado) · [Portfolio](https://engjurado.me) · [X/Twitter](https://x.com/EngJurado)
+[Email](mailto:eng.jurado@gmail.com) · [LinkedIn](https://www.linkedin.com/in/engjurado) · [Resume](https://engjurado.me) · [X/Twitter](https://x.com/EngJurado)
 
 **SCON** Founding Member | **INS** Member
