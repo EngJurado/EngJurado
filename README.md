@@ -1,5 +1,3 @@
-# About Me
-
 ## 👋 Hello, I'm Carlos Mateo Jurado Díaz
 
 **Bioengineer** with a **Master's in Artificial Intelligence** | **Neuromodulation Specialist** | **Data Scientist**
