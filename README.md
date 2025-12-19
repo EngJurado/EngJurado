@@ -1,24 +1,42 @@
-# 👋 Carlos Mateo Jurado Díaz
+# Hi, I'm Carlos Mateo 👋
 
-**Bioengineer** | **MSc AI** | **Neuromodulation Specialist** | **Data Scientist**
+**Bioengineer | MSc in Artificial Intelligence**
 
-## 🎯 What I Do
-- 🧠 **Neuromodulation**: On-site technical support for DBS, SCS procedures at Medtronic
-- 🤖 **AI/ML**: Mental health analysis & biomedical data processing models
-- 💻 **Hardware**: PCB design & signal acquisition optimization
-- 📊 **Data**: Interactive dashboards & advanced preprocessing
+I specialize in AI for healthcare and clinical technology, combining biomedical signal processing with machine learning to develop data-driven solutions for medical applications.
 
-## 🛠️ Tech Stack
-**Languages**: Python · R · JavaScript · SQL · Bash  
-**AI/ML**: TensorFlow · PyTorch · scikit-learn · spaCy · OpenCV  
-**Tools**: Azure · AWS · Power BI · Tableau · Streamlit  
-**Clinical**: DBS · SCS · Device Programming · Tecnovigilance
+📍 Bucaramanga, Colombia  
+🔗 [LinkedIn](https://linkedin.com/in/engjurado) | 📧 [eng.jurado@gmail.com](mailto:eng.jurado@gmail.com)
+
+---
+
+## 🔧 Tech Stack
+
+**Languages:** Python • SQL • C++ • R • JavaScript  
+**ML/AI:** TensorFlow • PyTorch • Scikit-learn • spaCy • OpenCV  
+**Data Science:** Pandas • NumPy • Matplotlib • Seaborn • Tableau  
+**Web & Cloud:** Flask • Streamlit • Azure • AWS SageMaker  
+**Embedded Systems:** Arduino • ESP32 • Signal Processing (DSP)
+
+---
+
+## 💼 What I Do
+
+- **Clinical Engineering:** Technical support for neuromodulation systems (Medtronic StealthStation S8, Guideline 5) during Deep Brain Stimulation surgeries
+- **AI Research:** Building ML models for mental health data analysis and clinical decision support
+- **Embedded Systems:** Developing IoT solutions for real-time biosignal acquisition (sEMG, EEG)
+
+---
 
 ## 🎓 Education
-- **MSc AI** — Universidad Internacional de La Rioja (2024-2025)
-- **Bioengineering** — Universidad de Antioquia (2015-2022)
 
-## 🌐 Connect
-[Email](mailto:eng.jurado@gmail.com) · [LinkedIn](https://www.linkedin.com/in/engjurado) · [Resume](https://engjurado.me) · [X/Twitter](https://x.com/EngJurado)
+**MSc in Artificial Intelligence** – Universidad Internacional de La Rioja (2025)  
+**BSc in Bioengineering** – Universidad de Antioquia (2022)
 
-**SCON** Founding Member | **INS** Member
+---
+
+## 📫 Let's Connect
+
+Open to collaborations in AI, bioengineering, and healthcare technology.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engjurado)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.jurado@gmail.com)
